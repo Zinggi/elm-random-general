@@ -1,3 +1,7 @@
+## Elm 0.19
+
+Use [the NoRedInk fork](https://github.com/NoRedInk/elm-random-general)
+
 # Random.General
 
 A library that provides convenient functions (generators) for creating random values.
